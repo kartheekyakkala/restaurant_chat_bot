@@ -2,3 +2,8 @@ langchain
 openai
 transformers
 chromadb
+tiktoken
+pypdf
+sentence_transformers
+InstructorEmbedding
+faiss-cpu
